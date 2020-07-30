@@ -38,6 +38,13 @@ Most configuration can be done in the `~/config.lua` file.
 * `canJoinChannel()`: You can edit this function in `client/client.lua` to restrict access to some channels. Return true if the user is allowed to join the given channel, or false if not.
 * `showNotification()`: You can customize this to use another notifications system (for example, mythic_notify.)
 
+## Controls
+
+* **Left Click:** Select Channel
+* **Right Click:** Cancel / Exit
+* **Scroll Up:** Scroll Channels
+* **Scroll Down:** Scroll Channels
+
 ## Support
 
 Support for specific framework integrations is not provided. If you need general support, or have found a bug, feel free to open an issue or submit a pull request.

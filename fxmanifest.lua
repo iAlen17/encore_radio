@@ -26,6 +26,14 @@ files {
 }
 
 --
+-- Dependencies
+--
+
+dependencies {
+    'tokovoip_script',
+}
+
+--
 -- About
 --
 
