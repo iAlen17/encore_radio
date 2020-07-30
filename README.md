@@ -1,6 +1,6 @@
 # encore_radio
 
-Customizable, frame-work agnostic radio script for FiveM and TokoVoip built for [Encore RP](https://discord.gg/encorerp).
+Customizable framework agnostic radio script for FiveM and TokoVoip built for [Encore RP](https://discord.gg/encorerp).
 
 ## Installation
 
